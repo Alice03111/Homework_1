@@ -1,0 +1,10 @@
+span{
+    color: blue;
+}
+
+.ordinary{
+    font: bold italic 110% serif;
+    color: rgba(60, 5, 94, 0.767);
+    font-weight: 400;
+}
+
